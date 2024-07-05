@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+    margin: 50px;
+    
+}
+table,th,td{
+    border: 3px solid black;
+    text-align: center;
+}
+th,td{
+    padding: 15px;
+}
